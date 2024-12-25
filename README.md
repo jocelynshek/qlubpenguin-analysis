@@ -1,2 +1,2 @@
 # qlubpenguin-analysis
-A fun project about the mailing list of Harvard's best house, Quincy, for @HarvardOpenData
+Code/analysis for an article about the mailing list of Harvard's best house, Quincy, for the Harvard Open Data Project
